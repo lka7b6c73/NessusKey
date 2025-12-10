@@ -84,7 +84,7 @@ st.code("""
 ╦   ╦╔═╗╦╔═╔═╗╦═╗  ╔╗╔╔═╗╔═╗╔═╗╦ ╦╔═╗
 ║   ║║ ║╠╩╗║╣ ╠╦╝  ║║║║╣ ╚═╗╚═╗║ ║╚═╗
 ╩═╝╚╝╚═╝╩ ╩╚═╝╩╚═  ╝╚╝╚═╝╚═╝╚═╝╚═╝╚═╝      
-     === By LEQUANGQUOCKHANH - VKM - V4 ===
+     === By LEQUANGQUOCKHANH - BOYSiTinh ===
 """, language="text")
 st.title("🔑 Nessus Key Generator")
 
